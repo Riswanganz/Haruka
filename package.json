@@ -1,7 +1,7 @@
 {
-  "name": "Haruka",
+  "name": "Wanz-Bot",
   "version": "2.0.1",
-  "description": "Not yet",
+  "description": "Bot Whatsapp",
   "main": "haruka.js",
   "directories": {
     "lib": "lib"
@@ -10,7 +10,7 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node haruka.js"
   },
-  "author": "ZEEONE",
+  "author": "Wanz",
   "dependencies": {
     "api-alphabot":"^1.0.2",
     "@adiwajshing/baileys": "^3.5.3", 
